@@ -12,3 +12,5 @@ see MaleEthnicity graph file at http://rli5492.github.io/IPC-New2/MaleEthnicity.
 see FemaleEthnicity graph file at http://rli5492.github.io/IPC-New2/FemaleEthnicity.html
 
 see FemaleEthnicity graph file at http://rli5492.github.io/IPC-New2/ColumnAgeGroup.html
+
+see Injury Map at http://rli5492.github.io/IPC-New2/InjuryMap.html
