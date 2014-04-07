@@ -15,4 +15,4 @@ see FemaleEthnicity graph file at http://rli5492.github.io/IPC-New2/ColumnAgeGro
 
 see Injury Map at http://rli5492.github.io/IPC-New2/InjuryMap.html or see a map that shows similarity at http://rli5492.github.io/IPC-New2/Injurymapsimilar.html
 
-See Chart of Vehicle Based Injuries at http://rli5492.github.io/IPC-New2/VehicleBubble.html
+See Chart of Vehicle Based Injuries at http://rli5492.github.io/IPC-New2/VehicleBubble1.html
