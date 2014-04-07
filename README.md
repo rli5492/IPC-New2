@@ -19,4 +19,4 @@ See Chart of Vehicle Based Injuries at http://rli5492.github.io/IPC-New2/Vehicle
 
 See Line Graph of Injuries on time of day at http://rli5492.github.io/IPC-New2/TimeOfDay.html
 
-See Bar Graph of Injuries based on Day at http://rli5492.github.io/IPC-New2/TimeOfDay.html
+See Bar Graph of Injuries based on Day at http://rli5492.github.io/IPC-New2/DayOfWeek.html
