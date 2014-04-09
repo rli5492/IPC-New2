@@ -40,3 +40,5 @@ See Pie Chart of Ethnicity at http://rli5492.github.io/IPC-New2/EthnicityPieM.ht
 and 
 
 http://rli5492.github.io/IPC-New2/EthnicityPieF.html (Female)
+
+See Pie Chart of Injuries Based on Location at http://rli5492.github.io/IPC-New2/LocationPie.html
