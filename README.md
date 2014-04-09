@@ -35,3 +35,8 @@ See motion chart of injuries from all of
 
 2012 at http://rli5492.github.io/IPC-New2/MotionChart2012.html
 
+See Pie Chart of Ethnicity at http://rli5492.github.io/IPC-New2/EthnicityPieM.html (Male) 
+
+and 
+
+http://rli5492.github.io/IPC-New2/EthnicityPieF.html (Female)
