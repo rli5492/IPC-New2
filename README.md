@@ -49,3 +49,4 @@ See Motion chart (2007-2012) at http://rli5492.github.io/IPC-New2/5YearChart.htm
 
 See injuries per month at http://rli5492.github.io/IPC-New2/MonthGraph.html
 
+See Mean age and frequency of injuries at http://rli5492.github.io/IPC-New2/InjuryBubble.html
