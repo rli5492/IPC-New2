@@ -45,4 +45,7 @@ See Pie Chart of Injuries Based on Location at http://rli5492.github.io/IPC-New2
 
 See Injury Map (New) at http://rli5492.github.io/IPC-New2/InjuryMap(New).html
 
-See Injury Map (New) at http://rli5492.github.io/IPC-New2/5YearChart.html
+See Motion chart (2007-2012) at http://rli5492.github.io/IPC-New2/5YearChart.html
+
+See injuries per month at http://rli5492.github.io/IPC-New2/MonthGraph.html
+
